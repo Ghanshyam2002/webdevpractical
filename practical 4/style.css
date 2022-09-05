@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:ital,wght@1,300&display=swap');
+
+
+*{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.menu-bar {
+    border: 2px solid #0c4bb1;
+    height: 300px;
+    text-align: center;
+    background-color: #a2c2d3;
+}
+
+
+.frame-content{
+    border: 2px solid #821f8d;
+    height: 300px;
+    text-align: center;
+    background-color: #b5cdde;
+}

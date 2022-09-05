@@ -1,0 +1,27 @@
+/* external css file  */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Ubuntu:ital,wght@1,300&display=swap');
+body {
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+
+table {
+  margin: 30px auto;
+   
+  box-sizing: border-box;
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 15px;
+  text-align: center;
+  box-shadow: 0 0 35px grey;
+}
+
+td,
+th {
+  padding: 8px 15px;
+}
+
+.break {
+  background-color: rgb(201, 210, 245);
+}
